@@ -1,5 +1,7 @@
 package com.example.hp.wcwmyapplication.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by HP on 2018/4/25.
  */
